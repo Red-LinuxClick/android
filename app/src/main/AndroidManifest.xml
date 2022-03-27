@@ -6,9 +6,8 @@
 
 <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:label="Red LinuxClick"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
 
@@ -16,7 +15,7 @@
 
     <meta-data
         android:name="com.google.android.gms.ads.APPLICATION_ID"
-        android:value="ca-app-pub-3940256099942544~3347511713"/>
+        android:value="ca-app-pub-8633064111389794~3126139449"/>
 
         <activity
             android:name=".MainActivity"

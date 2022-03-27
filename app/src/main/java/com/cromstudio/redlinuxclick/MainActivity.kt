@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.webkit.WebView
 import android.webkit.WebViewClient;
 import android.webkit.WebResourceRequest;
+import android.webkit.WebSettings
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.MobileAds
@@ -32,9 +33,15 @@ class MainActivity : AppCompatActivity() {
                 return false
             }
         }
+
+        myWebView.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
+
         myWebView.settings.javaScriptEnabled = true
 
         myWebView.loadUrl("https://redlinuxclick.ml")
+
+
+
 
 
     }
