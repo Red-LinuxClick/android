@@ -15,4 +15,6 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para 
 **Enlaces**
 
   GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases
+  
+  
   Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
