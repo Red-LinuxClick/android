@@ -1,4 +1,19 @@
-# RedLinuxClick
+# Red LinuxClick
+
+**Español**
+<a href="#español">Español</a> •
+<a href="#descargas">Descargas</a> •
+<a href="#donaciones-y-membresias">Donaciones</a> •
+
+**English**
+<a href="#english">English</a> •
+<a href="#download">Download</a> •
+<a href="#donations-and-memberships">Donations</a> •
+
+
+
+
+
 
 # Español
 Repositorio de Red LinuxClick
@@ -25,6 +40,8 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para 
   
   Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
   
+ 
+ 
  
  
 # English
