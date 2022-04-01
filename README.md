@@ -7,7 +7,7 @@ En este repositorio se encuentra la app movil de Red LinuxClick, una aplicacion 
 
 
 ### Quick preview
-![Screenshot gif](https://github.com/AngelJRomero21/RedLinuxClick/blob/main/img/RedLinuxClick.png?raw=true)
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/RedLinuxClick.png)
 
 
 ## Donaciones y Membresias
