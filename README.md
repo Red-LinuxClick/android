@@ -1,5 +1,5 @@
 # RedLinuxClick
- [![Support me on Patreon][badge_patreon]][patreon]
+
 # Español
 Repositorio de Red LinuxClick
 
