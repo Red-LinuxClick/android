@@ -1,10 +1,28 @@
-# RedLinuxClick
+# Red LinuxClick
+
+
+<a href="#español">**Español**</a> •
+<a href="#descargas">Descargas</a> •
+<a href="#donaciones-y-membresias">Donaciones</a> •
+
+
+<a href="#english">**English**</a> •
+<a href="#download">Download</a> •
+<a href="#donations-and-memberships">Donations</a> •
+
+
+
+
+
 
 # Español
 Repositorio de Red LinuxClick
 
 En este repositorio se encuentra la app movil de Red LinuxClick, una aplicacion movil creada con Kotlin.
 
+
+### Quick preview
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/RedLinuxClick.png)
 
 
 ## Donaciones y Membresias
@@ -17,11 +35,13 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para 
 
 **Enlaces**
 
-  GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases
+  GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
   
   
   Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
   
+ 
+ 
  
  
 # English
@@ -40,6 +60,6 @@ Thanks to your support all this is possible, we currently have two options for y
 
 **Links**
 
-GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases
+GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
 
 Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
