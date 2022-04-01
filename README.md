@@ -1,12 +1,12 @@
 # Red LinuxClick
 
-**Español**
-<a href="#español">Español</a> •
+
+<a href="#español">**Español**</a> •
 <a href="#descargas">Descargas</a> •
 <a href="#donaciones-y-membresias">Donaciones</a> •
 
-**English**
-<a href="#english">English</a> •
+
+<a href="#english">**English**</a> •
 <a href="#download">Download</a> •
 <a href="#donations-and-memberships">Donations</a> •
 
