@@ -20,7 +20,7 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para 
 
 **Enlaces**
 
-  GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases
+  GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
   
   
   Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
@@ -43,6 +43,6 @@ Thanks to your support all this is possible, we currently have two options for y
 
 **Links**
 
-GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases
+GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
 
 Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
