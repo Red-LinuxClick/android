@@ -10,7 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is..
 
-**Desktop (please complete the following information):** 
+**Please complete the following information:** 
  - OS: [e.g. Android 8.1]
  - Version app [e.g. 1.0.3]
 
