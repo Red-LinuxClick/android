@@ -1,10 +1,13 @@
 # RedLinuxClick
-
+ [![Support me on Patreon][badge_patreon]][patreon]
 # Español
 Repositorio de Red LinuxClick
 
 En este repositorio se encuentra la app movil de Red LinuxClick, una aplicacion movil creada con Kotlin.
 
+
+### Quick preview
+![Screenshot gif](https://github.com/AngelJRomero21/RedLinuxClick/blob/main/img/RedLinuxClick.png?raw=true)
 
 
 ## Donaciones y Membresias
