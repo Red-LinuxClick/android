@@ -38,7 +38,7 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para 
   GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
 
 
-  Servidor Propio: http://cromstudio.mooo.com/repo/redlinuxclick/apk
+  Servidor Propio: http://cromstudioserver.ml/repo/redlinuxclick/apk
 
 
   Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
@@ -66,7 +66,7 @@ Thanks to your support all this is possible, we currently have two options for y
 GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
 
 
-SERVER: http://cromstudio.mooo.com/repo/redlinuxclick/apk
+SERVER: http://cromstudioserver.ml/repo/redlinuxclick/apk
 
 
 Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
