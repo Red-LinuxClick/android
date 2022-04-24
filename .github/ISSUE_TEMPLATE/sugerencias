@@ -2,17 +2,17 @@
   
 ---
 name: Sugerencias
-about: Crea 
-title: "  Bug"
-labels: bug
+about: Crea una sugerencia para proximas actualizaciones.
+title: "  Sugerencia"
+labels: Sugerencia
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is..
+**Describe tu sugerencia**
 
-**Please complete the following information:** 
+
+**Completa la siguiente informacion:** 
  - OS: [e.g. Android 8.1]
  - Version app [e.g. 1.0.3]
 
