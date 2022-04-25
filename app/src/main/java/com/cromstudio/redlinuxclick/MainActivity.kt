@@ -34,11 +34,15 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        myWebView.settings.cacheMode = WebSettings.LOAD_CACHE_ELSE_NETWORK;
-
+        myWebView.settings.allowFileAccess = true
+        myWebView.settings.domStorageEnabled = true
+        myWebView.settings.cacheMode = WebSettings.LOAD_CACHE_ELSE_NETWORK
+        myWebView.settings.loadsImagesAutomatically = true
         myWebView.settings.javaScriptEnabled = true
+        myWebView.settings.javaScriptCanOpenWindowsAutomatically=true
 
         myWebView.loadUrl("https://redlinuxclick.ml")
+
 
 
 
