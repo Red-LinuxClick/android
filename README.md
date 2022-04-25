@@ -1,6 +1,6 @@
 # Red LinuxClick
 
-**Obten Soporte de Red LinuxClick en <a href=¨https://redlinuxclick.ml/forums/9/¨>FORO</a>
+**Obten Soporte de Red LinuxClick en** <a href="https://redlinuxclick.ml/forums/9/">**FORO**</a> 
 
 
 <a href="#español">**Español**</a> •
