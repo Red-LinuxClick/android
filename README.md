@@ -43,6 +43,9 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para 
   Servidor Propio: https://server.linux-click.ml/repo/redlinuxclick/apk
 
 
+  CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
+
+
   Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
   
  
@@ -69,6 +72,9 @@ GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
 
 
 SERVER: https://server.linux-click.ml/repo/redlinuxclick/apk
+
+
+CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
 
 
 Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
