@@ -1,5 +1,3 @@
-
-  
 ---
 name: Sugerencias
 about: Crea una sugerencia para proximas actualizaciones.
@@ -10,7 +8,7 @@ assignees: ''
 ---
 
 **Describe tu sugerencia**
-
+Aca tu sugerencia...
 
 **Completa la siguiente informacion:** 
  - OS: [e.g. Android 8.1]
