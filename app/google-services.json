@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959700874564",
+    "project_id": "red-linuxclick",
+    "storage_bucket": "red-linuxclick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959700874564:android:ea78a63aa5d25eef535311",
+        "android_client_info": {
+          "package_name": "com.cromstudio.redlinuxclick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959700874564-u6h1imolq9s3um8ulf4j0edpsmhuusij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhz9bTHkoLS91vRqXRFZZelGoUUKSl454"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959700874564-u6h1imolq9s3um8ulf4j0edpsmhuusij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
