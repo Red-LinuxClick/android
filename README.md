@@ -78,3 +78,10 @@ CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
 
 
 Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
+
+
+
+# Descarga
+[<img src="https://consumer-img.huawei.com/content/dam/huawei-cbg-site/common/campaign/emui91/images/Badge-Black.png" alt="Get it on AppGallery" height="60">](https://appgallery.cloud.huawei.com/ag/n/app/C100875081?channelId=InstaTecno&referrer=InstaTecno.com&id=c2e0bc5b7a5a4701a40ba87a8c01703e&s=E358F120887535BD012D71E8A26486D98647173F4960DD383691DC32D55D3F5F&detailType=0&v= ) [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-es-es.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/app/org.juanro.feedtv) [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="80">](https://github.com/juanro49/FeedTV/releases/latest) [<img src="https://stc.utdstc.com/img/download-uptodown1.png" alt="Get it on UptoDown" height="65">](https://feedtv.uptodown.com/android) [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid repo F-Droid" height="80">](https://apt.izzysoft.de/fdroid/index/apk/org.juanro.feedtv)
+
+Para descargar FeedTV desde [F-Droid](https://instatecno.com/f-droid-store-opensource/), necesitas tener añadido el [repo de IzzyOnDroid](https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A).
