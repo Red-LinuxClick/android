@@ -37,20 +37,13 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para 
 
 **Enlaces**
 
-  GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
-
 
   Servidor Propio: https://server.linux-click.ml/repo/redlinuxclick/apk
 
 
   CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
-
-
-  Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
   
- 
- 
- [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="80">](https://github.com/AngelJRomero21/RedLinuxClick/releases/latest) [<img src="https://stc.utdstc.com/img/download-uptodown1.png" alt="Get it on UptoDown" height="65">](https://red-linuxclick.uptodown.com/android) 
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/es-419_badge_web_generic.png" alt="Disponible en Google Play" height="80">](https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="80">](https://github.com/AngelJRomero21/RedLinuxClick/releases/latest) [<img src="https://stc.utdstc.com/img/download-uptodown1.png" alt="Get it on UptoDown" height="65">](https://red-linuxclick.uptodown.com/android) 
 
  
  
@@ -70,7 +63,7 @@ Thanks to your support all this is possible, we currently have two options for y
 
 **Links**
 
-GitHub: https://github.com/AngelJRomero21/RedLinuxClick/releases/latest
+
 
 
 SERVER: https://server.linux-click.ml/repo/redlinuxclick/apk
@@ -79,6 +72,5 @@ SERVER: https://server.linux-click.ml/repo/redlinuxclick/apk
 CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
 
 
-Play Store: https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick
 
- [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="80">](https://github.com/AngelJRomero21/RedLinuxClick/releases/latest) [<img src="https://stc.utdstc.com/img/download-uptodown1.png" alt="Get it on UptoDown" height="65">](https://red-linuxclick.uptodown.com/android) 
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/es-419_badge_web_generic.png" alt="Disponible en Google Play" height="80">](https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="80">](https://github.com/AngelJRomero21/RedLinuxClick/releases/latest) [<img src="https://stc.utdstc.com/img/download-uptodown1.png" alt="Get it on UptoDown" height="65">](https://red-linuxclick.uptodown.com/android) 
