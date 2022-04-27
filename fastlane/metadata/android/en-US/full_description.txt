@@ -1,0 +1,15 @@
+<i>Red LinuxClick</i> is a Latin American social network for Linux and free software lovers.
+
+In Red LinuxClick, each user can create their own Blog, Live Broadcast, and Chat. We are not only a Social Network, but we also have a forum. We have a large community of active users who share their knowledge on the web every day.
+
+<b>When Was The Social Network Launched?</b>
+
+The network was created on 01/30/2022, launched as a beta. And officially launched on 02/01/2022.
+
+<b>How Do They Maintain The Social Network?</b>
+
+We support ourselves thanks to the memberships you buy, and the profits obtained from advertising. All the money collected is used to pay for services that make the social network active.
+
+<b>I’m not going to join. There are many social networks!</b>
+
+Feel free to do what you want. We know that there are many social networks, but the reason for this network was to have a Latin American community about Technology, Gnu, Linux, BSD, Unix, ETC.
