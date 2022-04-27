@@ -16,9 +16,9 @@
 # Capturas de Pantalla - Screenshot
 
 ![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed%20(1).png)
-![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed.png)
+![Screenshot gif](https://play-lh.googleusercontent.com/S92wJvr1dqZQciO8TiU22hagiSpe0yek7Z0yngWHWii9i-Dq5a2HU51yoBERNxsFmzY=w1280-h821-rw)
 ![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1%20(1).png)
-![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1.png)
+![Screenshot gif](https://play-lh.googleusercontent.com/rW5Taf2EzpmEgYQPhSQQz0Yn48ePvtMZJBTPWXIWIUhb2T0U1ZdYyewbTo8wcj9kAg=w1280-h821-rw)
 
 
 
