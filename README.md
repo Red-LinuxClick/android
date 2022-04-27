@@ -13,12 +13,6 @@
 <a href="#donations-and-memberships">Donations</a> •
 
 
-# Capturas de Pantalla - Screenshot
-
-![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed%20(1).png)
-![Screenshot gif](https://play-lh.googleusercontent.com/S92wJvr1dqZQciO8TiU22hagiSpe0yek7Z0yngWHWii9i-Dq5a2HU51yoBERNxsFmzY=w1280-h821-rw)
-![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1%20(1).png)
-![Screenshot gif](https://play-lh.googleusercontent.com/rW5Taf2EzpmEgYQPhSQQz0Yn48ePvtMZJBTPWXIWIUhb2T0U1ZdYyewbTo8wcj9kAg=w1280-h821-rw)
 
 
 
@@ -82,3 +76,13 @@ CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
 
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/es-419_badge_web_generic.png" alt="Disponible en Google Play" height="80">](https://play.google.com/store/apps/details?id=com.cromstudio.redlinuxclick&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Download APK from GitHub" height="80">](https://github.com/AngelJRomero21/RedLinuxClick/releases/latest) [<img src="https://stc.utdstc.com/img/download-uptodown1.png" alt="Get it on UptoDown" height="65">](https://red-linuxclick.uptodown.com/android) 
+
+
+
+
+# Capturas de Pantalla - Screenshot
+
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed%20(1).png)
+![Screenshot gif](https://play-lh.googleusercontent.com/S92wJvr1dqZQciO8TiU22hagiSpe0yek7Z0yngWHWii9i-Dq5a2HU51yoBERNxsFmzY=w1280-h821-rw)
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1%20(1).png)
+![Screenshot gif](https://play-lh.googleusercontent.com/rW5Taf2EzpmEgYQPhSQQz0Yn48ePvtMZJBTPWXIWIUhb2T0U1ZdYyewbTo8wcj9kAg=w1280-h821-rw)
