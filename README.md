@@ -37,7 +37,7 @@ Actualmente mantenemos la red social con todas las membresias que ustedes compra
 Nos Puedes Ayudar Descargando y usando la app movil.
 
 ## Descargas
-Gracias  a tu apoyo todo esto es posible, actualmente tenemos dos opciones para que descargues la aplicacion movil, por Google Play Store y por GitHub.
+Gracias  a tu apoyo todo esto es posible, actualmente tenemos varias opciones para que descargues la aplicacion movil, por Google Play Store y por GitHub.
 
 **Enlaces**
 
@@ -63,7 +63,7 @@ Currently we maintain the social network with all the memberships that you buy a
 You can help us by downloading and using the mobile app.
 
 ## downloads
-Thanks to your support all this is possible, we currently have two options for you to download the mobile application, through the Google Play Store and through GitHub.
+Thanks to your support all this is possible, we currently have options for you to download the mobile application, through the Google Play Store and through GitHub.
 
 **Links**
 
