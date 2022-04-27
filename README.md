@@ -13,6 +13,13 @@
 <a href="#donations-and-memberships">Donations</a> •
 
 
+# Capturas de Pantalla - Screenshot
+
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed%20(1).png)
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed.png)
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1%20(1).png)
+![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1.png)
+
 
 
 
