@@ -6,6 +6,10 @@ We have a large community of active users who share their knowledge on the web e
 **Obten Soporte de Red LinuxClick en** <a href="https://redlinuxclick.ml/forums/9/">**FORO**</a> 
 
 
+Statistics of downloads:
+[![GitHub Releases](https://img.shields.io/github/downloads/angeljromero21/redlinuxclick/latest/total?logo=github)](https://github.com/angejromero21/redlinuxclick)
+
+
 <a href="#español">**Español**</a> •
 <a href="#descargas">Descargas</a> •
 <a href="#donaciones-y-membresias">Donaciones</a> •
