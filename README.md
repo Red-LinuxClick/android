@@ -7,7 +7,7 @@ We have a large community of active users who share their knowledge on the web e
 
 
 Statistics of downloads:
-[![GitHub Releases](https://img.shields.io/github/downloads/AngelJRomero21/RedLinuxClick/latest/total?logo=github)](https://github.com/AngelJRomero21/RedLinuxClick)
+[![GitHub Releases](https://img.shields.io/github/downloads/AngelJRomero21/RedLinuxClick/releases/total?logo=github)](https://github.com/AngelJRomero21/RedLinuxClick)
 
 
 <a href="#español">**Español**</a> •
