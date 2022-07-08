@@ -6,8 +6,8 @@ We have a large community of active users who share their knowledge on the web e
 **Obten Soporte de Red LinuxClick en** <a href="https://redlinuxclick.ml/contact-us">**Contactanos**</a> 
 
 
-Statistics of downloads:
-[![GitHub Releases](https://img.shields.io/github/downloads/AngelJRomero21/RedLinuxClick/total?logo=github)](https://github.com/AngelJRomero21/RedLinuxClick)
+
+
 
 
 <a href="#español">**Español**</a> •
@@ -93,3 +93,10 @@ CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
 ![Screenshot gif](https://play-lh.googleusercontent.com/S92wJvr1dqZQciO8TiU22hagiSpe0yek7Z0yngWHWii9i-Dq5a2HU51yoBERNxsFmzY=w1280-h821-rw)
 ![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1%20(1).png)
 ![Screenshot gif](https://play-lh.googleusercontent.com/rW5Taf2EzpmEgYQPhSQQz0Yn48ePvtMZJBTPWXIWIUhb2T0U1ZdYyewbTo8wcj9kAg=w1280-h821-rw)
+
+
+# Statistics
+[![GitHub Releases](https://img.shields.io/github/downloads/AngelJRomero21/RedLinuxClick/total?logo=github)](https://github.com/AngelJRomero21/RedLinuxClick)
+[![GitHub stars](https://img.shields.io/github/stars/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
+[![GitHub forks](https://img.shields.io/github/forks/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
+[![GitHub watchers](https://img.shields.io/github/watchers/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
