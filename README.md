@@ -106,4 +106,4 @@ CromStudioApps: https://cromstudioapps.blogspot.com/2022/04/red-linuxclick.html
 | Platform | Download | Status |
 |----------|----------|--------|
 | Android    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=7885FF&label=Android-Apk&logo=android&style=for-the-badge)](https://github.com/AngelJRomero21/RedLinuxClick/releases/download/v1.0.4/RedLinuxClick_v1.0.4.apk)| ✅ Stable | 
-| Web    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=FF7139&label=RedLinuxClick.ml&logo=firefox&style=for-the-badge)](https://redlinuxclick.ml/) | ✅ Stable | 
+| Web    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=FF7139&label=RedLinuxClick.ml&logo=chrome&style=for-the-badge)](https://redlinuxclick.ml/) | ✅ Stable | 
