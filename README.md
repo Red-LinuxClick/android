@@ -3,7 +3,7 @@ In Red LinuxClick, each user can create their own Blog, Live Broadcast, and Chat
 We are not only a Social Network, but we also have a forum.
 We have a large community of active users who share their knowledge on the web every day.
 
-**Obten Soporte de Red LinuxClick en** <a href="https://redlinuxclick.ml/forums/9/">**FORO**</a> 
+**Obten Soporte de Red LinuxClick en** <a href="https://redlinuxclick.ml/contact-us">**Contactanos**</a> 
 
 
 Statistics of downloads:
