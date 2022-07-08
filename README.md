@@ -49,7 +49,7 @@ Nos Puedes Ayudar Descargando y usando la app movil.
 | Plataforma | Descargar | Estado |
 |----------|----------|--------|
 | Android    |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=7885FF&label=Android-Apk&logo=android&style=for-the-badge)](https://github.com/AngelJRomero21/RedLinuxClick/releases/download/v1.0.4/RedLinuxClick_v1.0.4.apk)| ✅ Stable | 
-| Android Play Store   |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=7885FF&label=Play Store&logo=google&style=for-the-badge)](https://github.com/AngelJRomero21/RedLinuxClick/releases/download/v1.0.4/RedLinuxClick_v1.0.4.apk)| ✅ Stable | 
+| Android Play Store   |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=7885FF&label=Play Store&logo=android&style=for-the-badge)](https://github.com/AngelJRomero21/RedLinuxClick/releases/download/v1.0.4/RedLinuxClick_v1.0.4.apk)| ✅ Stable | 
 | Web    |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=FF7139&label=RedLinuxClick.ml&logo=firefox&style=for-the-badge)](https://redlinuxclick.ml/) | ✅ Stable | 
  
  
@@ -70,7 +70,7 @@ You can help us by downloading and using the mobile app.
 | Platform | Download | Status |
 |----------|----------|--------|
 | Android    |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=7885FF&label=Android-Apk&logo=android&style=for-the-badge)](https://github.com/AngelJRomero21/RedLinuxClick/releases/download/v1.0.4/RedLinuxClick_v1.0.4.apk)| ✅ Stable | 
-| Android Play Store   |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=7885FF&label=Play Store&logo=google&style=for-the-badge)](https://github.com/AngelJRomero21/RedLinuxClick/releases/download/v1.0.4/RedLinuxClick_v1.0.4.apk)| ✅ Stable | 
+| Android Play Store   |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=7885FF&label=Play Store&logo=android&style=for-the-badge)](https://github.com/AngelJRomero21/RedLinuxClick/releases/download/v1.0.4/RedLinuxClick_v1.0.4.apk)| ✅ Stable | 
 | Web    |[![Download Button](https://img.shields.io/github/v/release/AngelJRomero21/RedLinuxClick?color=FF7139&label=RedLinuxClick.ml&logo=firefox&style=for-the-badge)](https://redlinuxclick.ml/) | ✅ Stable | 
 
 
