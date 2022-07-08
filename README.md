@@ -28,7 +28,7 @@ Statistics of downloads:
 # Español
 Repositorio de Red LinuxClick
 
-En este repositorio se encuentra la app movil de Red LinuxClick, una aplicacion movil creada con Kotlin.
+Este es el repositorio oficial de Red LinuxClick, Podras encontrar la documentacion, codigo fuente de la app, entre otras cosas.
 
 
 ### Quick preview
@@ -59,7 +59,7 @@ Gracias  a tu apoyo todo esto es posible, actualmente tenemos varias opciones pa
 
 Red LinuxClick Repository
 
-In this repository is the Red LinuxClick mobile app, a mobile application created with Kotlin.
+
 
 ## Donations and Memberships
 Currently we maintain the social network with all the memberships that you buy and with the ads that the mobile app has, we pay 50% of the services thanks to what we receive for advertising.
