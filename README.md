@@ -11,6 +11,8 @@ We have a large community of active users who share their knowledge on the web e
 [![GitHub forks](https://img.shields.io/github/forks/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
 [![GitHub watchers](https://img.shields.io/github/watchers/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/angeljromero21/redlinuxclick?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/angeljromero21/redlinuxclick?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/angeljromero21/redlinuxclick?color=%23229395&logo=github&logoColor=%23fff&style=for-the-badge)
+
 
 
 
