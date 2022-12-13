@@ -11,7 +11,7 @@ We have a large community of active users who share their knowledge on the web e
 [![GitHub forks](https://img.shields.io/github/forks/Red-LinuxClick/android?style=social)](https://github.com/Red-LinuxClick/android/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Red-LinuxClick/android?style=social)](https://github.com/Red-LinuxClick/android/)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Red-LinuxClick/android/?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/Red-LinuxClick/android/?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/Red-LinuxClick/android/?color=%23229395&logo=github&logoColor=%23fff&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Red-LinuxClick/android?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/Red-LinuxClick/android?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/Red-LinuxClick/android?color=%23229395&logo=github&logoColor=%23fff&style=for-the-badge)
 
 
 
