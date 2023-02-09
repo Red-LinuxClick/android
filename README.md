@@ -6,12 +6,12 @@ We have a large community of active users who share their knowledge on the web e
 **Obten Soporte de Red LinuxClick en** <a href="https://redlinuxclick.ml/contact-us">**Contactanos**</a> 
 
 # Statistics
-[![GitHub Releases](https://img.shields.io/github/downloads/AngelJRomero21/RedLinuxClick/total?logo=github)](https://github.com/AngelJRomero21/RedLinuxClick)
-[![GitHub stars](https://img.shields.io/github/stars/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
-[![GitHub forks](https://img.shields.io/github/forks/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
-[![GitHub watchers](https://img.shields.io/github/watchers/AngelJRomero21/RedLinuxClick?style=social)](https://github.com/AngelJRomero21/RedLinuxClick)
+[![GitHub Releases](https://img.shields.io/github/downloads/Red-LinuxClick/android/total?logo=github)](https://github.com/Red-LinuxClick/android/)
+[![GitHub stars](https://img.shields.io/github/stars/Red-LinuxClick/android?style=social)](https://github.com/Red-LinuxClick/android/)
+[![GitHub forks](https://img.shields.io/github/forks/Red-LinuxClick/android?style=social)](https://github.com/Red-LinuxClick/android/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Red-LinuxClick/android?style=social)](https://github.com/Red-LinuxClick/android/)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/angeljromero21/redlinuxclick?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/angeljromero21/redlinuxclick?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/angeljromero21/redlinuxclick?color=%23229395&logo=github&logoColor=%23fff&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Red-LinuxClick/android?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/Red-LinuxClick/android?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/Red-LinuxClick/android?color=%23229395&logo=github&logoColor=%23fff&style=for-the-badge)
 
 
 
@@ -38,7 +38,7 @@ Este es el repositorio oficial de Red LinuxClick, Podras encontrar la documentac
 
 
 ### Quick preview
-![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/RedLinuxClick.png)
+![Screenshot gif](https://raw.githubusercontent.com/Red-LinuxClick/android/main/img/RedLinuxClick.png)
 
 
 ## Donaciones y Membresias
@@ -88,8 +88,5 @@ You can help us by downloading and using the mobile app.
 ![Screenshot gif](https://play-lh.googleusercontent.com/S92wJvr1dqZQciO8TiU22hagiSpe0yek7Z0yngWHWii9i-Dq5a2HU51yoBERNxsFmzY=w1280-h821-rw)
 ![Screenshot gif](https://raw.githubusercontent.com/AngelJRomero21/RedLinuxClick/main/img/unnamed_1%20(1).png)
 ![Screenshot gif](https://play-lh.googleusercontent.com/rW5Taf2EzpmEgYQPhSQQz0Yn48ePvtMZJBTPWXIWIUhb2T0U1ZdYyewbTo8wcj9kAg=w1280-h821-rw)
-
-
-
 
 
