@@ -5,6 +5,7 @@
     android:id="@+id/swipe_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+
     <RelativeLayout
         android:id="@+id/layout_webview"
         android:layout_width="match_parent"
@@ -13,39 +14,42 @@
         <WebView
             android:id="@+id/webview"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:visibility="gone" />
+            android:layout_height="match_parent" />
+
         <RelativeLayout
             android:id="@+id/layout_splash"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:visibility="visible"
-            android:background="#80000000">
+            android:background="#80000000"
+            android:visibility="visible">
+
             <View
                 android:id="@+id/view_splash"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="#DCDCDC"/>
+                android:background="#DCDCDC" />
+
             <ImageView
                 android:id="@+id/app_logo"
-                android:layout_width="200dp"
-                android:layout_height="200dp"
-                android:contentDescription="Red LinuxClick"
-                android:src="@drawable/ic_logo"
-                android:layout_marginTop="139dp"
+                android:layout_width="wrap_content"
+                android:layout_height="410dp"
                 android:layout_alignParentTop="true"
-                android:layout_centerHorizontal="true" />
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="145dp"
+                android:contentDescription="Red LinuxClick"
+                android:src="@drawable/ic_logo" />
+
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Red LinuxClick"
                 android:layout_below="@+id/app_logo"
+                android:layout_centerHorizontal="true"
                 android:layout_marginTop="20dp"
-                android:textSize="20dp"
+                android:text="Red LinuxClick"
                 android:textColor="#000"
-                android:visibility="gone"
+                android:textSize="20dp"
                 android:textStyle="bold"
-                android:layout_centerHorizontal="true"/>
+                android:visibility="gone" />
 
             <LinearLayout
                 android:id="@+id/layout_footer"
@@ -55,87 +59,85 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginBottom="5dp"
                 android:orientation="horizontal">
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Hecho Con Amor por"
-                    android:textColor="#000"/>
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="match_parent"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
-                    app:srcCompat="@drawable/ic_love" />
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Crom Studio"
+                    android:text="v1.2.0 | Crom Studio"
                     android:textColor="#000" />
+
             </LinearLayout>
         </RelativeLayout>
+
         <RelativeLayout
             android:id="@+id/layout_no_internet"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:visibility="gone"
-            android:background="#80000000">
+            android:background="#80000000"
+            android:visibility="gone">
+
             <View
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:alpha=".90"
-                android:background="@color/colorWhite"/>
+                android:background="@color/colorWhite" />
+
             <androidx.appcompat.widget.AppCompatImageView
                 android:id="@+id/img_no_internet"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:contentDescription="Red LinuxClick"
-                android:scaleType="centerCrop"
-                android:layout_marginTop="139dp"
+                android:layout_width="245dp"
+                android:layout_height="225dp"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
+                android:layout_marginTop="107dp"
+                android:contentDescription="Red LinuxClick"
+                android:scaleType="centerCrop"
                 app:srcCompat="@drawable/ic_warning" />
+
             <TextView
                 android:id="@+id/txt_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Whoops!"
                 android:layout_below="@+id/img_no_internet"
+                android:layout_centerHorizontal="true"
                 android:layout_marginTop="20dp"
-                android:textSize="35dp"
+                android:text="¡Váyalo!"
                 android:textColor="#000"
-                android:textStyle="bold"
-                android:layout_centerHorizontal="true"/>
+                android:textSize="35dp"
+                android:textStyle="bold" />
+
             <TextView
                 android:id="@+id/txt_detail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/txt_title"
-                android:layout_marginTop="20dp"
-                android:textSize="18dp"
-                android:textColor="#000"
                 android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:text="No hay pinta pa' navegar. Revisa cómo está el internet y dale otra revisada a la app."
                 android:textAlignment="center"
-                android:text="No Hay Conexion a Internet. \nVerifica tu Conexion y Vuelve a Intentar"/>
+                android:textColor="#000"
+                android:textSize="18dp" />
+
             <Button
                 android:id="@+id/btn_try_again"
                 android:layout_width="200dp"
                 android:layout_height="60dp"
-                android:layout_marginTop="20dp"
-                android:layout_centerHorizontal="true"
                 android:layout_below="@+id/txt_detail"
-                android:theme="@style/Button3Style"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                android:text="Recargar"
                 android:textColor="@color/colorWhite"
-                android:text="Recargar"/>
+                android:theme="@style/Button3Style" />
         </RelativeLayout>
+
         <ProgressBar
             android:id="@+id/progressBar"
+            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:indeterminate="true"
+            android:layout_height="32dp"
             android:layout_centerHorizontal="true"
-            android:visibility="visible"
+            android:indeterminate="true"
             android:progressDrawable="@drawable/cs_custom_progressbar"
-            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal" />
+            android:visibility="visible" />
     </RelativeLayout>
 
 
