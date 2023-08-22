@@ -4,13 +4,13 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 33
-    buildToolsVersion '28.0.3'
+    buildToolsVersion '33.0.1'
     defaultConfig {
         applicationId "com.cromstudio.redlinuxclick"
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode 6
-        versionName "1.0.6"
+        versionCode 7
+        versionName "1.2.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -33,6 +33,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    namespace 'com.cromstudio.redlinuxclick'
 }
 
 dependencies {

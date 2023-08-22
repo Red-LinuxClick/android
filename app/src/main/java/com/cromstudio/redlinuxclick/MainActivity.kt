@@ -43,7 +43,7 @@ class MainActivity : Activity() {
     internal var mLoaded = false
 
     // url red linuxclick
-    internal var URL = "https://redlinuxclick.ml"
+    internal var URL = "https://redlinuxclick.com"
 
     //for attach files
     private var mCameraPhotoPath: String? = null
@@ -231,8 +231,8 @@ class MainActivity : Activity() {
         //file attach request
         mWebView.webChromeClient = object : WebChromeClient() {
             override fun onShowFileChooser(
-                    webView: WebView, filePathCallback: ValueCallback<Array<Uri>>,
-                    fileChooserParams: WebChromeClient.FileChooserParams): Boolean {
+                webView: WebView, filePathCallback: ValueCallback<Array<Uri>>,
+                fileChooserParams: WebChromeClient.FileChooserParams): Boolean {
                 if (mFilePathCallback != null) {
                     mFilePathCallback!!.onReceiveValue(null)
                 }
@@ -254,7 +254,7 @@ class MainActivity : Activity() {
                     if (photoFile != null) {
                         mCameraPhotoPath = "file:" + photoFile.absolutePath
                         takePictureIntent.putExtra(MediaStore.EXTRA_OUTPUT,
-                                Uri.fromFile(photoFile))
+                            Uri.fromFile(photoFile))
                     } else {
                         takePictureIntent = null
                     }
@@ -290,11 +290,11 @@ class MainActivity : Activity() {
         val timeStamp = SimpleDateFormat("yyyyMMdd_HHmmss").format(Date())
         val imageFileName = "JPEG_" + timeStamp + "_"
         val storageDir = Environment.getExternalStoragePublicDirectory(
-                Environment.DIRECTORY_PICTURES)
+            Environment.DIRECTORY_PICTURES)
         return File.createTempFile(
-                imageFileName, /* prefix */
-                ".jpg", /* suffix */
-                storageDir      /* directory */
+            imageFileName, /* prefix */
+            ".jpg", /* suffix */
+            storageDir      /* directory */
         )
     }
 
