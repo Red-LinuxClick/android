@@ -63,7 +63,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="v1.2.0 | Crom Studio"
+                    android:text="v1.2.3 | Crom Studio"
                     android:textColor="#000" />
 
             </LinearLayout>
